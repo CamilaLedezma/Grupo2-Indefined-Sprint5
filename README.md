@@ -1,5 +1,5 @@
 # grupo_2_Indefined
-**_Proyecto Integrador - SPRINT 1_**
+**_Proyecto Integrador_**
 
 ## Descripcion: 
 Nuestro sitio ofrece indumentaria unisex para adolescentes. Con distintas secciones para un estilo urbano, cómodo.
