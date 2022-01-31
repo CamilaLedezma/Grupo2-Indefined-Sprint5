@@ -1,7 +1,7 @@
-- SPRINT 4*
+- SPRINT 5*
 ## 1. Comenzar a hacer:
 Preguntar si estamos trabados en algo<br> 
-*Tener iniciativa*<br> 
+*#Tener iniciativa*<br> 
 
 ## 2. Hacer más:
 Practicar tanto en el playground como de forma audidacta<br> 
